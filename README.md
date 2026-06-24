@@ -84,7 +84,7 @@ AI-Interview-Preparation-System/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Interview-Preparation-System.git
+git clone https://github.com/demohit37-jpg/AI-Interview-Preparation-System.git
 cd AI-Interview-Preparation-System
 ```
 
@@ -119,8 +119,6 @@ pip install -r requirements.txt
 ## 📦 Required Packages
 
 Create a **requirements.txt** file with:
-
-```txt
 streamlit
 pandas
 matplotlib
@@ -153,15 +151,6 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 ```bash
 streamlit run app.py
 ```
-
-Open:
-
-```text
-http://localhost:8501
-```
-
----
-
 ## 🔄 Application Workflow
 
 1. Create Student Profile
@@ -183,33 +172,12 @@ The system uses a **Decision Tree Classifier** to predict interview readiness ba
 | 36 – 55 | Medium |
 | 56 – 75 | Good |
 | 76 – 100 | Excellent |
-
----
-
-## 📸 Screenshots
-
-### Home Page
-![Home Page](assets/screenshots/home.png)
-
-### Skill Assessment
-![Skill Assessment](assets/screenshots/assessment.png)
-
-### Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
-
-### AI Question Generator
-![Question Generator](assets/screenshots/questions.png)
-
 ---
 
 ## 🚀 Future Enhancements
 
-- Resume Analysis
+- Pofile Analysis
 - Mock Interview Simulation
-- Voice-Based Interviews
-- Authentication System
-- Database Integration
-- PDF Report Generation
 - Performance History Tracking
 - Gamification & Leaderboards
 
@@ -227,14 +195,6 @@ The system uses a **Decision Tree Classifier** to predict interview readiness ba
 
 ## 👨‍💻 Author
 
-**Your Name**
-
-Final Year Project – AI Interview Preparation System
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
+**Mohit De**
+ Project – AI Interview Preparation System
 Feel free to use, modify, and distribute it for educational purposes.
